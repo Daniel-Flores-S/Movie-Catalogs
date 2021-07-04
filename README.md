@@ -8,7 +8,7 @@ Catálogo completo de filmes com as seguintes funções:
 <br>
 ✔️Editar.
 <br>
-✔️Excluir
+✔️Excluir.
 
 <br>
 <br>
